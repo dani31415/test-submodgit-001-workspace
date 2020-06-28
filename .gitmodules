@@ -1,3 +1,4 @@
 [submodule "test-submodgit-001-sub001"]
 	path = test-submodgit-001-sub001
 	url = git@github.com:dani31415/test-submodgit-001-sub001.git
+    branch = master
