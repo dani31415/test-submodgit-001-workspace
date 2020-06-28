@@ -2,3 +2,7 @@
 	path = test-submodgit-001-sub001
 	url = git@github.com:dani31415/test-submodgit-001-sub001.git
     branch = master
+[submodule "test-submodgit-001-sub002"]
+	path = test-submodgit-001-sub002
+	url = git@github.com:dani31415/test-submodgit-001-sub002.git
+	branch = master
